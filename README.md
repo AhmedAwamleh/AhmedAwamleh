@@ -8,7 +8,7 @@
 🌱 I’m currently learning everything
 🤣 🥅 2022 Goals: Learn more about js 
 👀 I’m interested in Web Programming Linkedin
-📫 How to reach me TerawiHassan@gmail.com
+
 
 
 <br>	
