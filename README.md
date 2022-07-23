@@ -1,7 +1,4 @@
-# hey there
- 👋 Hi, I’m Ahmed Al-Awamleh
-
-
+# hey there 👋
 
 
 👋 Hi, I’m Ahmed Awamleh
