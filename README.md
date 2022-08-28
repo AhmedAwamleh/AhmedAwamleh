@@ -2,9 +2,8 @@
 
 
 👋 Hi, I’m Ahmed Awamleh<br>
-🌱 I’m currently learning everything<br>
-🥅 2022 Goals: Learn more about js <br>
-👀 I’m interested in Web Programming <br>
+🌱 I’m currently learning how to be a Full Stack Developer
+
 
 
 
